@@ -1,0 +1,100 @@
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\JORGE\source\repos\Grupal_U1_LP2\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio2.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio2.resources
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio4.resources
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\OVALTECH\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio2.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_1.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_2.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio4.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_1.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_2.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio4.resources
+C:\Users\Usuario\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio7.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio5.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio7.resources
+C:\Users\drago\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.PrjEjercicio6.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio2.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_1.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_2.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio4.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio5.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio7.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.PrjEjercicio6.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio6.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.MDIPrincipal.resources
+C:\Users\JORGE\source\repos\Version 15\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmLogin.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe.config
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.exe
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\bin\Debug\Grupal_U1_LP2.pdb
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Form1.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio2.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_1.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio3_2.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio4.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio5.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio6.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmEjercicio7.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.FrmLogin.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.MDIPrincipal.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.PrjEjercicio6.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.Properties.Resources.resources
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.exe
+C:\Users\HP\source\repos\trabajogrupalu1-tgu1_briceno_lopez_huallpa_hernandez\Grupal_U1_LP2\obj\Debug\Grupal_U1_LP2.pdb
